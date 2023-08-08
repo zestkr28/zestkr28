@@ -29,12 +29,11 @@
          <img alt="Github Starts" src="https://github-readme-stats.vercel.app/api?username=anotherkj&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"               
      </td>
      <td>
-        <p align="center"><img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=00000000&hide_border=true"/></p>
+        <p align="center"><img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platane&layout=compact&bg_color=00000000&hide_border=true"/></p>
         <img src="https://streak-stats.demolab.com/?user=anotherkj&theme=dark&background=00000000&hide_border=true"/>
      </td>
    </tr>
 </table>
-
 <!-- Yahoooooo -->
 <p align="center">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/95228594/246629236-f87a91df-8d59-48ee-968b-b6c101b4d15f.gif" />

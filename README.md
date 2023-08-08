@@ -8,7 +8,10 @@
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
    </samp>
-    <img src="https://github.com/anotherkj/anotherkj/blob/output/github-contribution-grid-snake.svg"/>
+      </br>
+   <!-- contribution snake  -->
+    <img src="https://github.com/anotherkj/anotherkj/blob/output/github-contribution-grid-snake-dark.svg"/>
+   <!--  -->
       <p align="center">
         ════ ⋆★⋆ ════
         <br>
@@ -16,11 +19,6 @@
     </p>    
    </samp>       
 </p>
-<!-- contribution snake  -->
-<p align="center">
-        
-</p>
-
 <!--Github Stats -->
 ### :fire: Github Stats
 <table>

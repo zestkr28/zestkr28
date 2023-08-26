@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <p align="center">
    <samp>
-      &gt; Hey There!, I am <b>Quan</b>>
+      &gt; Hey There!, I am <b>Quan</b>
       <br>
       A student at Ha Noi University of Mining and Geology
       <br>

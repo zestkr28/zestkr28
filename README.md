@@ -2,9 +2,9 @@
 <!-- Intro  -->
 <p align="center">
    <samp>
-      &gt; Hey There!, I am <b>Quan</b>
+      &gt; Hey There!,</b>
       <br>
-      A student at Ha Noi University of Mining and Geology
+      Im student at Ha Noi University of Mining and Geology
       <br>
       <img src="https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono+Nerd+Font&size=14&pause=1000&color=1D3885&center=true&width=435&lines=Hapiness+comes+from+the+simple+thing" alt="Typing SVG" />
    </samp>

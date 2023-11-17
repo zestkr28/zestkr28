@@ -26,11 +26,11 @@
 <table>
    <tr>
      <td width="50%"> 
-         <img alt="Github Starts" src="https://github-readme-stats.vercel.app/api?username=midora1&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"               
+         <img alt="Github Starts" src="https://github-readme-stats.vercel.app/api?username=thichnghenhacpop&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true"               
      </td>
      <td>
         <p align="center"><img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Platane&layout=compact&bg_color=00000000&hide_border=true"/></p>
-        <img src="https://streak-stats.demolab.com/?user=midora1&theme=dark&background=00000000&hide_border=true"/>
+        <img src="https://streak-stats.demolab.com/?user=thichnghenhacpop&theme=dark&background=00000000&hide_border=true"/>
      </td>
    </tr>
 </table>

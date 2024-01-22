@@ -41,7 +41,7 @@
 
 <!--Technical skills  -->
 ### :atom: Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,figma,docker,redis,rabbitmq,nginx,mysql,mongodb,laravel,php,vuejs,nuxtjs,git,linux,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,tailwind,dotnet,laravel,vuejs,nuxtjs,angular,figma,docker,kubernetes,nginx,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
 
 <!-- linux rice  -->
 ### 🌆 Rice :

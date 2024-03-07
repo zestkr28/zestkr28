@@ -1,6 +1,6 @@
 <!-- Yahoooooo -->
 <p align="center">
-<img width="100%" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-4.gif" />
+<img  src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-4.gif" />
 </p>
 
 <!-- Intro  -->
@@ -28,12 +28,13 @@
 </p>
 
 <!--Github Stats -->
-### Github Stats 🔥
-   <details style="display:inline-block">
-     <summary></summary>
-      <img alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=tranhongquandev&theme=blueberry&count_private=true&hide_border=true&line_height=20">               
-      <img alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true">  
-   </details>
+<h3> 👉  Github Stats 📈 </h3>
+<details>
+  <summary> <u> View </u> </summary>
+  <br>
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=tranhongquandev&theme=blueberry&count_private=true&hide_border=true&line_height=20">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true">
+</details>
 
 
 

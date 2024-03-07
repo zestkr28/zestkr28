@@ -28,11 +28,14 @@
 </p>
 
 <!--Github Stats -->
-### &gt; Github Stats :fire:
-<div >
+
+<details>
+     <summary><h3>Github Stats :fire:</h3></summary>
       <img alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=tranhongquandev&theme=blueberry&count_private=true&hide_border=true&line_height=20">               
       <img alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true">  
-</div>
+</details>
+
+![dinogif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
 
 

@@ -1,6 +1,6 @@
 <!-- Yahoooooo -->
 <p align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/95228594/246629236-f87a91df-8d59-48ee-968b-b6c101b4d15f.gif" />
+<img width="100%" src="https://gifsec.com/wp-content/uploads/2022/10/nezuko-gif-4.gif" />
 </p>
 
 <!-- Intro  -->
@@ -28,12 +28,14 @@
 </p>
 
 <!--Github Stats -->
-
-<details>
-     <summary><h3>Github Stats :fire:</h3></summary>
+### Github Stats 🔥
+   <details style="display:inline-block">
+     <summary></summary>
       <img alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=tranhongquandev&theme=blueberry&count_private=true&hide_border=true&line_height=20">               
       <img alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true">  
-</details>
+   </details>
+
+
 
 ![dinogif](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 

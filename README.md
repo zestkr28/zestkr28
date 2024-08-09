@@ -12,7 +12,7 @@
 
 
 <!--Technical skills  -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,scss,tailwind,bootstrap,angular,dotnet,mysql,firebase,mongodb,docker,postman,rider,git,arch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,js,ts,scss,tailwind,bootstrap,angular,dotnet,mysql,mongodb,docker,redis,arch&theme=dark)](https://skillicons.dev)
 
 <!--Shields  -->
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)

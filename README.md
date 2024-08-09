@@ -23,8 +23,8 @@
 
 <!-- contribution snake  -->
 <p align="center">
-   <source media="(prefers-color-scheme: dark)" srcset=https://github.com/anotherkj/zestkr28/blob/output/github-contribution-grid-snake-dark.svg">
-   <img alt="github contribution grid snake animation" src="https://github.com/zestkr28/zestkr28/blob/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: dark)" srcset=https://github.com/tranhongquandev/tranhongquandev/blob/output/github-contribution-grid-snake-dark.svg">
+   <img alt="github contribution grid snake animation" src="https://github.com/tranhongquandev/tranhongquandev/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 <!--Github Stats -->
@@ -32,8 +32,8 @@
 <details>
   <summary> <u> View </u> </summary>
   <br>
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=zestkr28&theme=blueberry&count_private=true&hide_border=true&line_height=20">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestkr28&layout=compact&theme=blueberry&count_private=true&hide_border=true">
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=tranhongquandev&theme=blueberry&count_private=true&hide_border=true&line_height=20">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhongquandev&layout=compact&theme=blueberry&count_private=true&hide_border=true">
 </details>
 
 

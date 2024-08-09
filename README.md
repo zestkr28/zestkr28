@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 # Hey There! 👋
-**I'm Tran Hong Quan (he/him)** - I'm a passionate developer, student at Ha Noi University of Mining and Geology. I'm interested in development, moderation, and building thriving websites.
+**I'm Tran Hong Quan (he/him)** - A student at Ha Noi University of Mining and Geology. I'm interested in development, moderation and building thriving websites.
 
 
 
